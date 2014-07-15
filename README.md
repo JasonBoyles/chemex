@@ -18,7 +18,9 @@ solids, which in turn impacts flavor. Heat water to 205 degrees Fahrenheit.
 TBD
 
 #### Filter Setup
-TBD
+Unfold the filter paper square into a funnel shape. Place the expanded filter
+into the Chemex funnel with the thickest side against the funnel groove.
+Wet the filter with a splash of water to seat it against the funnel.
 
 #### Pour over
 TBD
